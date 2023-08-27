@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JohnnySenior&theme=dark)](https://git.io/streak-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JohnnySenior&show_icons=true&theme=gotham" alt="JohnnySenior" />
 
 <!--
 **JohnnySenior/JohnnySenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
