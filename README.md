@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jamshidbek
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JohnnySenior&theme=dark)](https://git.io/streak-stats)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=JohnnySenior&show_icons=true&theme=gotham" alt="JohnnySenior" />
